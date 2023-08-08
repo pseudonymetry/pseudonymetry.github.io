@@ -2,14 +2,17 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: HeatDeCam Detecting Hidden Spy Cameras via Thermal Emissions
+title: Closing the Loop for Accountable Interference-free Spectrum Sharing with Passive Radio Receivers
 layout: default
 ---
 
-# HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions
+# Closing the Loop for Accountable Interference-free Spectrum Sharing with Passive Radio Receivers
 
-Unlawful video surveillance of unsuspecting individuals using spy cameras has become an increasing concern. To mitigate these
-threats, there are both commercial products and research prototypes designed to detect hidden spy cameras in household and office environments. However, existing work often relies heavily on user expertise and only applies to wireless cameras. To bridge this gap, we propose HeatDeCam, a thermal-imagery-based spy camera detector, capable of detecting hidden spy cameras with or without built-in wireless connectivity. To reduce the reliance on user expertise, HeatDeCam leverages a compact neural network deployed on a smartphone to recognize unique heat dissipation patterns of spy cameras. To evaluate the proposed system, we have collected and open-sourced a dataset of a total of 22,506 thermal and visual images. These images consist of 11 spy cameras collected from 6 rooms across different environmental conditions. Using this dataset, we found HeatDeCam can achieve over 95% accuracy in detecting hidden cameras. We have also conducted a usability evaluation involving a total of 416 participants using both an online survey and an in-person usability test to validate HeatDeCam.
+## Project Description
+
+Spectrum in the US is incredibly valuable to science, education, commerce, transportation, and contemporary life. Wireless bandwidth needs are rapidly growing, but allocation of spectrum to wireless users should not come at the expense of scientific observation in astronomy and earth science which are already under-allocated and subject to interference when operating opportunistically outside the narrow protected bands. This project is developing new secure and accountable sharing protocols that not only enable more efficient sharing of the spectrum between terrestrial commercial wireless systems and passive receivers, but also empowers passive systems to force a particular interfering transmitter to switch band. Improved coexistence allows more reliable operation of radio astronomy receivers. This project is creating open source software and data, and working with the ITU-R to ensure that results impact the research community and future spectrum sharing policy. Developments are impacting undergraduate and graduate education through course material and research experiences, and the project is engaged in K12 outreach.
+
+This project is developing RF watermarks that embed random pseudonyms into transmitted wireless communication signals so that passive receivers can demodulate the pseudonym of any interferer. The proposed system then allows passive receivers to indirectly inform the interfering device to change band. To prevent any other device from inferring private information, the proposed system leverages differential privacy to quantitatively limit privacy leakage. Further, the project is adapting software attestation to develop proof of correct execution of spectrum decision on user equipment, and complementing the watermark-based detection system with spectrum policy enforcement. Protocols under study are being implemented and tested on PAWR testbeds as an open source project. Extensive experimentation, including at the Owens Valley Radio Observatory, is validating the technical contributions, and quantifying its performance and robustness to attacks.
 
 ## Team
 HeatDeCam was developed by the following team of academica researchers:
