@@ -14,6 +14,16 @@ Spectrum in the US is incredibly valuable to science, education, commerce, trans
 
 This project is developing RF watermarks that embed random pseudonyms into transmitted wireless communication signals so that passive receivers can demodulate the pseudonym of any interferer. The proposed system then allows passive receivers to indirectly inform the interfering device to change band. To prevent any other device from inferring private information, the proposed system leverages differential privacy to quantitatively limit privacy leakage. Further, the project is adapting software attestation to develop proof of correct execution of spectrum decision on user equipment, and complementing the watermark-based detection system with spectrum policy enforcement. Protocols under study are being implemented and tested on PAWR testbeds as an open source project. Extensive experimentation, including at the Owens Valley Radio Observatory, is validating the technical contributions, and quantifying its performance and robustness to attacks.
 
+## Team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Neal Patwari](https://engineering.wustl.edu/faculty/Neal-Patwari.html)** (<a href="mailto:neal.patwari@gmail.com">neal.patwari@gmail.com</a>) at Washington University in St. Louis   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ning Zhang](https://engineering.wustl.edu/faculty/Ning-Zhang.html)** (<a href="mailto:zhang.ning@wustl.edu">zhang.ning@wustl.edu</a>) at Washington University in St. Louis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Greg Hellbourg](https://directory.caltech.edu/personnel/ghellbou)** (<a href="mailto:greg.hellbourg@gmail.com">greg.hellbourg@gmail.com</a>) at Washington University in St. Louis 
+
+<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/caltech-new-logo.png" alt="CalTech_logo" width="170"/></center>
+
+
+
 ## Background
 
 **Spectrum Sharing**
@@ -21,18 +31,25 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 <iframe width="560" height="315" src="https://www.youtube.com/embed/de4O8ZrldpU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Differential Privacy**
-<!-- <iframe width="600" height="360" src="https://www.youtube.com/watch?v=gI0wk1CXlsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- **Differential Privacy**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gI0wk1CXlsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Software Attestation**
-<!-- <iframe width="600" height="360" src="https://www.youtube.com/watch?v=22ttDmu3VMY&t=867s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/22ttDmu3VMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/22ttDmu3VMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Research Publication
+<h4>
+  ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://www.usenix.org/system/files/usenixsecurity23-wang-jinwen.pdf">PDF</a>]
+    <br> J. Wang, Y. Wang, A. Li, Y. Xiao, R. Zhang, W. Lou, Y. Hou, N. Zhang
+    <br> USENIX Security Symposium, 2023
+</h4>
 
 ## Open Source Repositories
+<h4>
+  ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://github.com/WUSTL-CSPL/ARI">Github Repo</a>]
+</h4>
+
 
 ## Acknowledgement
 
