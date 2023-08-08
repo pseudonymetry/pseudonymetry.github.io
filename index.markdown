@@ -16,13 +16,11 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 
 ## Team
 
+<p>
 **[Neal Patwari](https://engineering.wustl.edu/faculty/Neal-Patwari.html)** (<a href="mailto:neal.patwari@gmail.com">neal.patwari@gmail.com</a>) at Washington University in St. Louis   
-
-
-**[Ning Zhang](https://engineering.wustl.edu/faculty/Ning-Zhang.html)** (<a href="mailto:zhang.ning@wustl.edu">zhang.ning@wustl.edu</a>) at Washington University in St. Louis
-
-
-**[Greg Hellbourg](https://directory.caltech.edu/personnel/ghellbou)** (<a href="mailto:greg.hellbourg@gmail.com">greg.hellbourg@gmail.com</a>) at California Institute of Technology 
+<br>**[Ning Zhang](https://engineering.wustl.edu/faculty/Ning-Zhang.html)** (<a href="mailto:zhang.ning@wustl.edu">zhang.ning@wustl.edu</a>) at Washington University in St. Louis
+<br>**[Greg Hellbourg](https://directory.caltech.edu/personnel/ghellbou)** (<a href="mailto:greg.hellbourg@gmail.com">greg.hellbourg@gmail.com</a>) at California Institute of Technology 
+</p>
 
 <center><img src="logos/washu-logo.png" alt="WashU_logo" height="50"/><img src="logos/caltech-new-logo.png" alt="CalTech_logo" height="50"/></center>
 
