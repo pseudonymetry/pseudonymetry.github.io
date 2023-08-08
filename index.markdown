@@ -16,11 +16,14 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 
 ## Team
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Neal Patwari](https://engineering.wustl.edu/faculty/Neal-Patwari.html)** (<a href="mailto:neal.patwari@gmail.com">neal.patwari@gmail.com</a>) at Washington University in St. Louis   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ning Zhang](https://engineering.wustl.edu/faculty/Ning-Zhang.html)** (<a href="mailto:zhang.ning@wustl.edu">zhang.ning@wustl.edu</a>) at Washington University in St. Louis
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Greg Hellbourg](https://directory.caltech.edu/personnel/ghellbou)** (<a href="mailto:greg.hellbourg@gmail.com">greg.hellbourg@gmail.com</a>) at Washington University in St. Louis 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+**[Neal Patwari](https://engineering.wustl.edu/faculty/Neal-Patwari.html)** (<a href="mailto:neal.patwari@gmail.com">neal.patwari@gmail.com</a>) at Washington University in St. Louis   
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+**[Ning Zhang](https://engineering.wustl.edu/faculty/Ning-Zhang.html)** (<a href="mailto:zhang.ning@wustl.edu">zhang.ning@wustl.edu</a>) at Washington University in St. Louis
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+**[Greg Hellbourg](https://directory.caltech.edu/personnel/ghellbou)** (<a href="mailto:greg.hellbourg@gmail.com">greg.hellbourg@gmail.com</a>) at California Institute of Technology 
 
-<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/caltech-new-logo.png" alt="CalTech_logo" width="170"/></center>
+<center><img src="logos/WUSTL.png" alt="WashU_logo" height="200"/><img src="logos/caltech-new-logo.png" alt="CalTech_logo" height="200"/></center>
 
 
 
@@ -39,16 +42,16 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 <iframe width="560" height="315" src="https://www.youtube.com/embed/22ttDmu3VMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Research Publication
-<h4>
+<p>
   ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://www.usenix.org/system/files/usenixsecurity23-wang-jinwen.pdf">PDF</a>]
     <br> J. Wang, Y. Wang, A. Li, Y. Xiao, R. Zhang, W. Lou, Y. Hou, N. Zhang
     <br> USENIX Security Symposium, 2023
-</h4>
+</p>
 
 ## Open Source Repositories
-<h4>
+<p>
   ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://github.com/WUSTL-CSPL/ARI">Github Repo</a>]
-</h4>
+</p>
 
 
 ## Acknowledgement
