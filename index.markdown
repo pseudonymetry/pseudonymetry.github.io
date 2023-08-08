@@ -14,6 +14,21 @@ Spectrum in the US is incredibly valuable to science, education, commerce, trans
 
 This project is developing RF watermarks that embed random pseudonyms into transmitted wireless communication signals so that passive receivers can demodulate the pseudonym of any interferer. The proposed system then allows passive receivers to indirectly inform the interfering device to change band. To prevent any other device from inferring private information, the proposed system leverages differential privacy to quantitatively limit privacy leakage. Further, the project is adapting software attestation to develop proof of correct execution of spectrum decision on user equipment, and complementing the watermark-based detection system with spectrum policy enforcement. Protocols under study are being implemented and tested on PAWR testbeds as an open source project. Extensive experimentation, including at the Owens Valley Radio Observatory, is validating the technical contributions, and quantifying its performance and robustness to attacks.
 
+## Background
+
+**Spectrum Sharing**
+<iframe width="1000" height="600" src="https://www.youtube.com/watch?v=de4O8ZrldpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Research Publication
+
+## Open Source Repositories
+
+## Acknowledgement
+
+This project is supported by NSF under award #2229427.
+
+
+<!-- 
 ## Team
 HeatDeCam was developed by the following team of academica researchers:
 
@@ -69,4 +84,4 @@ We developed an Android app as a prototype of our approach. Besides evaluation o
 
 <center><img src="figs/Detectors.jpg" alt="Detectors" width="230"/>&nbsp;&nbsp;<img src="figs/InPersonRoom.jpg" alt="Room" width="230"/>&nbsp;&nbsp;<img src="figs/AdvEnv.png" alt="AdvEnv" width="172"/></center>
 
-For more details of our work, please see our [paper](https://dl.acm.org/doi/10.1145/3548606.3560669). Also please contact us if you have any questions!
+For more details of our work, please see our [paper](https://dl.acm.org/doi/10.1145/3548606.3560669). Also please contact us if you have any questions! -->
