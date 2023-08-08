@@ -17,13 +17,18 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 ## Background
 
 **Spectrum Sharing**
-<iframe width="600" height="360" src="https://www.youtube.com/watch?v=de4O8ZrldpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="600" height="360" src="https://www.youtube.com/watch?v=de4O8ZrldpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=de4O8ZrldpU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Differential Privacy**
-<iframe width="600" height="360" src="https://www.youtube.com/watch?v=gI0wk1CXlsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="600" height="360" src="https://www.youtube.com/watch?v=gI0wk1CXlsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gI0wk1CXlsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Software Attestation**
-<iframe width="600" height="360" src="https://www.youtube.com/watch?v=22ttDmu3VMY&t=867s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="600" height="360" src="https://www.youtube.com/watch?v=22ttDmu3VMY&t=867s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=22ttDmu3VMY&t=867s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Research Publication
 
