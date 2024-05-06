@@ -37,9 +37,9 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 
 ## Research Publication
 <p>
-  ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://www.usenix.org/system/files/usenixsecurity23-wang-jinwen.pdf">PDF</a>]
-    <br> J. Wang, Y. Wang, A. Li, Y. Xiao, R. Zhang, W. Lou, Y. Hou, N. Zhang
-    <br> USENIX Security Symposium, 2023
+  Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack [<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a120/1Ub23teQ7PG">PDF</a>]
+    <br> H. Liu, Y. Wu, Z. Yu, N. Zhang
+    <br> IEEE Symposium on Security and Privacy (Oakland), 2024
 </p>
 <p>
   Spectrum management at the Owens Valley Radio Observatory
@@ -52,9 +52,9 @@ This project is developing RF watermarks that embed random pseudonyms into trans
     <br> IEEE Transactions on Cognitive Communications and Networking, 2023
 </p>
 <p>
-  Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack [<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a120/1Ub23teQ7PG">PDF</a>]
-    <br> H. Liu, Y. Wu, Z. Yu, N. Zhang
-    <br> IEEE Symposium on Security and Privacy (Oakland), 2024
+  ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://www.usenix.org/system/files/usenixsecurity23-wang-jinwen.pdf">PDF</a>]
+    <br> J. Wang, Y. Wang, A. Li, Y. Xiao, R. Zhang, W. Lou, Y. Hou, N. Zhang
+    <br> USENIX Security Symposium, 2023
 </p>
 <p>
   SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SlowLiDAR_Increasing_the_Latency_of_LiDAR-Based_Detection_Using_Adversarial_Examples_CVPR_2023_paper.pdf">PDF</a>]
