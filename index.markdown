@@ -8,6 +8,11 @@ layout: default
 
 # Closing the Loop for Accountable Interference-free Spectrum Sharing with Passive Radio Receivers
 
+## Introduction
+
+**Pseudonymetry**
+<iframe width="1024" height="768" src="https://www.youtube.com/embed/-frBkvugYGs?si=d7gIg3iw9mS1QdYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Project Description
 
 Spectrum in the US is incredibly valuable to science, education, commerce, transportation, and contemporary life. Wireless bandwidth needs are rapidly growing, but allocation of spectrum to wireless users should not come at the expense of scientific observation in astronomy and earth science which are already under-allocated and subject to interference when operating opportunistically outside the narrow protected bands. This project is developing new secure and accountable sharing protocols that not only enable more efficient sharing of the spectrum between terrestrial commercial wireless systems and passive receivers, but also empowers passive systems to force a particular interfering transmitter to switch band. Improved coexistence allows more reliable operation of radio astronomy receivers. This project is creating open source software and data, and working with the ITU-R to ensure that results impact the research community and future spectrum sharing policy. Developments are impacting undergraduate and graduate education through course material and research experiences, and the project is engaged in K12 outreach.
@@ -24,13 +29,6 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 <center><img src="logos/washu-logo.png" alt="WashU_logo" height="80"/><div style="display:inline-block; width:20px;"></div><img src="logos/caltech-new-logo.png" alt="CalTech_logo" height="50"/></center>
 
 
-
-## Background
-
-**Spectrum Sharing**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/de4O8ZrldpU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 <!-- **Differential Privacy**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gI0wk1CXlsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -44,10 +42,54 @@ This project is developing RF watermarks that embed random pseudonyms into trans
     <br> J. Wang, Y. Wang, A. Li, Y. Xiao, R. Zhang, W. Lou, Y. Hou, N. Zhang
     <br> USENIX Security Symposium, 2023
 </p>
+<p>
+  Spectrum management at the Owens Valley Radio Observatory
+    <br> G. Hellbourg
+    <br> URSIGASS, 2023
+</p>
+<p>
+  Pseudonymetry: Watermarking Closed-loop SpectrumCoordination with Passive Receiver
+    <br> Meles G. Weldegebriel, J. Wang, N. Zhang, N. Patwari
+    <br> IEEE Transactions on Cognitive Communications and Networking, 2023
+</p>
+<p>
+  Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack [<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a120/1Ub23teQ7PG">PDF</a>]
+    <br> H. Liu, Y. Wu, Z. Yu, N. Zhang
+    <br> IEEE Symposium on Security and Privacy (Oakland), 2024
+</p>
+<p>
+  SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SlowLiDAR_Increasing_the_Latency_of_LiDAR-Based_Detection_Using_Adversarial_Examples_CVPR_2023_paper.pdf">PDF</a>]
+    <br> H. Liu, Y. Wu, Z. Yu, Y. Vorobeychik, N. Zhang
+    <br> IEEE / CVF Computer Vision and Pattern Recognition Conference, 2023
+</p>
+<p>
+  RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation With Natural Prompts [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf">PDF</a>]
+    <br> H. Liu, Y. Wu, S. Zhai, B. Yuan, N. Zhang
+    <br> IEEE / CVF Computer Vision and Pattern Recognition Conference, 2023
+</p>
+<p>
+  IP Protection in TinyML [<a href="https://sbs.wustl.edu/pubs/wwlycz23.pdf">PDF</a>]
+    <br> J. Wang, Y. Wu, H. Liu, B. Yuan, R. Chamberlain, N. Zhang
+    <br> Design Automation Conference, 2023
+</p>
+<p>
+  PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference [<a href="https://ieeexplore.ieee.org/document/9984708">PDF</a>]
+    <br> A. Li, M. Sudvarg, H. Liu, Z. Yu, C. Gill, N. Zhang
+    <br> IEEE Real-Time Systems Symposium (RTSS), 2022
+</p>
 
 ## Open Source Repositories
 <p>
   ARI: Attestation of Real-time Mission Execution Integrity [<a href="https://github.com/WUSTL-CSPL/ARI">Github Repo</a>]
+</p>
+<p>
+  SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples [<a href="https://github.com/WUSTL-CSPL/SlowLiDAR">Github Repo</a>]
+</p>
+<p>
+  RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation With Natural Prompts [<a href="https://github.com/WUSTL-CSPL/RIATIG">Github Repo</a>]
+</p>
+<p>
+  IP Protection in TinyML [<a href="https://github.com/WUSTL-CSPL/TinyML">Github Repo</a>]
 </p>
 
 
