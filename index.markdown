@@ -94,4 +94,4 @@ This project is developing RF watermarks that embed random pseudonyms into trans
 
 ## Acknowledgement
 
-This project is supported by NSF under award #2229427.
+This project is supported by NSF under award #2229427 and #2229428.
